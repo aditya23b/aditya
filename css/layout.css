@@ -330,7 +330,7 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: photoshop 2s ease;
 }
 .pyt {
-    width: 50%;
+    width: 70%;
     -moz-animation: photoshop 2s ease;
     -webkit-animation: photoshop 2s ease;
 }
@@ -345,12 +345,12 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: photoshop 2s ease;
 }
 .java {
-    width: 70%;
+    width: 40%;
     -moz-animation: photoshop 2s ease;
     -webkit-animation: photoshop 2s ease;
 }
 .cpp {
-    width: 80%;
+    width: 30%;
     -moz-animation: photoshop 2s ease;
     -webkit-animation: photoshop 2s ease;
 }
@@ -359,7 +359,32 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: photoshop 2s ease;
     -webkit-animation: photoshop 2s ease;
 }
+.abap {
+    width: 80%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+.opensql {
+    width: 80%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+.sql {
+    width: 80%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+.opensql {
+    width: 80%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
 
+.vb {
+    width: 40%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
